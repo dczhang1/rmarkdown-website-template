@@ -1,5 +1,17 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome"
+output: 
+  html_document:
+    toc: true # table of content true
+    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: false  ## if you want number sections at each table header
 ---
+This website contains various research-related resources for psychology graduate students in the I/O Psychology program at LSU. Please send any comments, suggestions, and additions to Don Zhang. 
 
-You're up and running!
+Maintainer:
+
+Don Zhang, Assistant Professor
+
+Email: zhang1@lsu.edu
+
+Github: http://www.github.com/dczhang1
