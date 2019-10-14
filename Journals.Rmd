@@ -1,0 +1,57 @@
+---
+title: "Journal List"
+---
+**IO Psych, Management, Organizational Behavior**
+
+- Academy of Management Journal (AMJ)
+- Academy of Management Review (AMR)
+- Journal of Management (JOM)
+- Journal of Applied Psychology (JAP)
+- Organizational Behavior and Human Decision Processes (OBHDP)
+- Human Resource Management Journal (HRMJ)
+- Journal of Organizational Behavior (JOB)
+- Personnel Psychology (PPsych)
+- Journal of Business Psychology (JBP)
+- Journal of Occupational and Organizational Psychology (JOOP)
+- Applied Psychology: an International Review (AP:IR)
+- Journal of Vocational Behavior (JVB)
+- Organizational Research Methods (ORM)
+- Leadership Quarterly (LQ)
+- International Journal of Selection and Assessment (IJSA)
+- Personnel Assessment and Decisions (PAD)
+- Journal of Personnel Psychology (JPP)
+- Journal of Occupational Health Psychology (JOHP)
+- Work and Stress (W&S)
+- Journal of Managerial Psychology (JMP)
+- Industrial and Organizational Psychology (IOP)
+
+**Social and Personality Psychology**
+
+- Journal of Personality and Social Psychology (JPSP)
+- Social Personality and Psychological Science (SPPS)
+- Journal of Experimental Social Psychology (JESP)
+- Personality and Social Psychology Bulletin (PSPB)
+- Personality and Individual Differences (PAID or PID)
+- Journal of Personality (JOP)
+- Journal of Research in Personality (JRP)
+- Journal of Personality Assessment (JPA)
+- European Journal of Personality (EJP)
+
+**Misc & General Psychology**
+
+- Psychological Bulletin (Psych Bull)
+- Psychological Review
+- Journal of Experimental Psychology: General (JEP:G)
+- Psychological Science
+- Current Directions in Psychological Science (Current Directions)
+- Topics in Cognitive Science
+- Trends in Cognitive Science (TiCS)
+- Psychological Methods
+- Nature Human Behavior
+- Psychonomic Bulletin & Review (PB&R)
+- Advances in Methods and Practices in Psychological Science (AMPPS)
+
+**Judgment and Decision Making**
+
+- Journal of Behavioral Decision Making (JBDM)
+- Judgment and Decision Making Journal (JDM)
